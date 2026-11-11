@@ -27,4 +27,4 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: 68fd2983132fa25f0973035db0f93e75
-          command: pages deploy . --project-name=ai-intro --branch=main
+          command: pages deploy . --project-name=ai-intro-9rb --branch=main
